@@ -6,8 +6,8 @@ To achieve the commands, run the command -h.
 
 Use this format whilst using Web-Pen-Test in termux:
 
-#### ```git clone https://github.com/ikures/Web-Pen-Test```
-#### ```cd Web-Pen-Test```
-#### ```python recon.py {commands}```
+#### ```git clone https://github.com/ikures/webpentest```
+#### ```cd webpentest```
+#### ```python clike.py {commands}```
 
                     
